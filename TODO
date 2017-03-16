@@ -1,0 +1,7 @@
+TODO
+----
+
+- maybe: save/verify full-file hash to/from hashlist
+- maybe: save/verify infilesize to/from hashlist to disable comparing files with different size
+
+$loki 2006-01-21

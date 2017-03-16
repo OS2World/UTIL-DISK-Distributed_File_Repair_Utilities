@@ -1,0 +1,14 @@
+CHANGELOG
+--------------
+
+0.2.0b:
+- used MD5 instead of CRC32
+- hashes are saved binary
+* WARNING!*
+* completely incompatible to 0.1.5b!!! *
+
+0.1.5b:
+- first public release
+
+
+$loki 2006-01-21

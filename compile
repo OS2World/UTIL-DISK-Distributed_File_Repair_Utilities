@@ -1,0 +1,9 @@
+#! /bin/sh
+#  Distributed File Repair Utilities 0.1.5 beta
+#  Copyright (C) 2005 Loki TroubleMind <loki1985@users.sourceforge.net>
+
+gcc -O2 -s -o makehashes makehashes.c md5.c
+gcc -O2 -s -o makechunks makechunks.c md5.c
+gcc -O2 -s -o insertchunks insertchunks.c
+
+# $loki 2005-04-05
